@@ -1,0 +1,15 @@
+{
+  "name": "fortune-cookie",
+  "version": "0.0.0",
+  "description": "An example of work using Canvas Sketch",
+  "main": "fortune-cookie.js",
+  "scripts": {
+    "start": "canvas-sketch fortune-cookie.js --open"
+  },
+  "author": "Mauri Edo",
+  "license": "MIT",
+  "dependencies": {
+    "canvas-sketch": "^0.7.4",
+    "canvas-sketch-util": "^1.10.0"
+  }
+}

@@ -1,3 +1,9 @@
+# Output
+output/
+
+# IDE
+.idea
+
 # Logs
 logs
 *.log
