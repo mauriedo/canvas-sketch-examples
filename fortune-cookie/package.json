@@ -2,9 +2,9 @@
   "name": "fortune-cookie",
   "version": "0.0.0",
   "description": "An example of work using Canvas Sketch",
-  "main": "fortune-cookie.js",
+  "main": "src/fortune-cookie.js",
   "scripts": {
-    "start": "canvas-sketch fortune-cookie.js --open"
+    "start": "canvas-sketch src/fortune-cookie.js --open"
   },
   "author": "Mauri Edo",
   "license": "MIT",
