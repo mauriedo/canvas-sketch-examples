@@ -1,0 +1,15 @@
+{
+  "name": "concentric-circles",
+  "version": "0.0.0",
+  "description": "An example of work using Canvas Sketch",
+  "main": "src/enso.js",
+  "scripts": {
+    "start": "canvas-sketch src/concentric-circles.js --open --output=output"
+  },
+  "author": "Mauri Edo",
+  "license": "MIT",
+  "dependencies": {
+    "canvas-sketch": "^0.7.4",
+    "canvas-sketch-util": "^1.10.0"
+  }
+}
