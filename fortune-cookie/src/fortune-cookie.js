@@ -10,6 +10,8 @@ const HEIGHT = WIDTH / 2;
 const settings = {
   dimensions: [ WIDTH, HEIGHT ],
   animate: true,
+  loop: true,
+  duration: 30,
   playbackRate: 'throttle',
   fps: 0.5
 };

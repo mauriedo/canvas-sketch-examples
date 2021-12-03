@@ -1,5 +1,5 @@
 # Fortune Cookie
-![Fortune cookie](docs/image.png)
+![Fortune cookie](docs/image.gif)
 
 ## Setup
 

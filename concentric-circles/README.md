@@ -1,5 +1,5 @@
 # Concentric circles
-![Concentric circles](docs/image.png)
+![Concentric circles](docs/image.gif)
 
 ## Setup
 

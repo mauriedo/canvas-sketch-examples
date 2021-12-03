@@ -9,6 +9,8 @@ export const HEIGHT = 512;
 const settings = {
   dimensions: [ WIDTH, HEIGHT ],
   animate: true,
+  loop: true,
+  duration: 30,
   fps: 0.5,
   playbackRate: 'throttle'
 };

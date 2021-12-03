@@ -1,5 +1,5 @@
 # Ensō
-![Enso](docs/image.png)
+![Enso](docs/image.gif)
 
 ## Setup
 
